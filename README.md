@@ -1,2 +1,4 @@
 # Scheduler
-Calendar Scheduler Availability Checking app
+Calendar Scheduler Availability Checking script
+
+test.java for fast input/output check
